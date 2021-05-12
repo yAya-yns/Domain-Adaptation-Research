@@ -16,3 +16,9 @@ My Research study towards domain adaptation:
 
 [TODO]: - [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds]()
    - by Li Yi, Boqing Gong, Thomas Funkhouser | Google Research
+
+[TODO]: - [Cross-Sensor Deep Domain Adaptation for LiDAR Detection and Segmentation]()
+   - by Christoph B. Rist, Markus Enzweiler, Dariu M. Gavrila
+
+[TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud]()
+   - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
