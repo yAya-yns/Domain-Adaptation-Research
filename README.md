@@ -23,6 +23,11 @@ My Research study towards domain adaptation:
 
 [TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation]()
   - by Inigo Alonso, Luis Riazuelo1, Luis Montesano, Ana C. Murillo1
+  
+[TODO]: - [LiDAR Segmentatic Segmentation: A Review]()
+  - Not yet publically available
+  - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
+
 
 [TODO]: - [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds]()
    - by Li Yi, Boqing Gong, Thomas Funkhouser | Google Research
@@ -32,3 +37,4 @@ My Research study towards domain adaptation:
 
 [TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud]()
    - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
+
