@@ -11,6 +11,16 @@ My Research study towards domain adaptation:
 - [nuScenes: A multimodal dataset for autonomous driving](Paper_Reading-nuScenes-A_multimodal_dataset_for_autonomous_driving.pdf)
   - by Holger Caesar, Varun Bankiti, Alex H. Lang, Sourabh Vora, Venice Erin Liong, Qiang Xu, Anush Krishnan, Yu Pan, Giancarlo Baldan, Oscar Beijbom | nuTonomy
 
+[Currently Reading]: - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+  - by Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros | Berkeley AI Research (BAIR) laboratory, UC Berkeley
+
+[TODO]: - [CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION](https://arxiv.org/pdf/1711.03213.pdf)
+  - by 
+    - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu | BAIR, UC Berkeley
+    - Phillip Isola | OpenAI
+    - Kate Saenko | CS, Boston University
+    - Alexei A. Efros, Trevor Darrell | BAIR, UC Berkeley
+
 [TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation]()
   - by Inigo Alonso, Luis Riazuelo1, Luis Montesano, Ana C. Murillo1
 
