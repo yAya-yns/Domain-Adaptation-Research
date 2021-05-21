@@ -21,7 +21,7 @@ My Research study towards domain adaptation:
     - Kate Saenko | CS, Boston University
     - Alexei A. Efros, Trevor Darrell | BAIR, UC Berkeley
 
-[TODO]: - [LiDAR Segmentatic Segmentation: A Review]()
+[currently reading]: - [LiDAR Segmentatic Segmentation: A Review]()
   - Not yet publically available
   - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
 
