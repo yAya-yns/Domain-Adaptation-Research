@@ -21,13 +21,12 @@ My Research study towards domain adaptation:
     - Kate Saenko | CS, Boston University
     - Alexei A. Efros, Trevor Darrell | BAIR, UC Berkeley
 
-[TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation]()
-  - by Inigo Alonso, Luis Riazuelo1, Luis Montesano, Ana C. Murillo1
-  
 [TODO]: - [LiDAR Segmentatic Segmentation: A Review]()
   - Not yet publically available
   - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
 
+[TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation]()
+  - by Inigo Alonso, Luis Riazuelo1, Luis Montesano, Ana C. Murillo1
 
 [TODO]: - [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds]()
    - by Li Yi, Boqing Gong, Thomas Funkhouser | Google Research
