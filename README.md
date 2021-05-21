@@ -14,7 +14,7 @@ My Research study towards domain adaptation:
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](Paper_Reading-Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.pdf)
   - by Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros | Berkeley AI Research (BAIR) laboratory, UC Berkeley
 
-[Currently Reading]:- [CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION](https://arxiv.org/pdf/1711.03213.pdf)
+- [CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION](Paper_Reading-CYCADA-CYCLE-CONSISTENT_ADVERSARIAL_DOMAIN_ADAPTATION.pdf)
   - by 
     - Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu | BAIR, UC Berkeley
     - Phillip Isola | OpenAI
