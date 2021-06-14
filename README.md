@@ -22,8 +22,18 @@ My Research study towards domain adaptation:
     - Alexei A. Efros, Trevor Darrell | BAIR, UC Berkeley
 
 [LiDAR Segmentatic Segmentation: A Review](Paper_Reading-LiDAR_Semantic_Segmentation-A_Review.pdf)
-  - Not yet publically available
+  - Original Paper Not yet publically available
   - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
+
+[current]: [In Defense of Classical Image Processing: Fast Depth Completion on the CPU](https://arxiv.org/pdf/1802.00036.pdf)
+  - Jason Ku, Ali Harakeh, and Steven L. Waslander | University of Waterloo
+
+[TODO]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
+  - Yan Xu, Xinge Zhu, Jianping Shi, Guofeng Zhang, Hujun Bao, Hongsheng Li 
+    - | SenseTime Research
+    - | The Chinese University of Hong Kong
+    - | State Key Lab of CAD&CG at Zhejiang University
+
 
 [TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation]()
   - by Inigo Alonso, Luis Riazuelo1, Luis Montesano, Ana C. Murillo1
