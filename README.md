@@ -2,11 +2,11 @@
 My Research study towards domain adaptation:
 
 ## Research Paper Analysis: ##
-- [Deep Visual Domain Adaptation: A Survey](Paper_Reading-Deep_Visual_Domain_Adaptation-A_Survey.pdf)
-  - by Mei Wang, Weihong Deng | Beijing University of Posts and Telecommunications
-
 [TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
   - Larissa T. Triess, Mariella Dreissig, Christoph B. Rist, J. Marius Zöllner
+
+- [Deep Visual Domain Adaptation: A Survey](Paper_Reading-Deep_Visual_Domain_Adaptation-A_Survey.pdf)
+  - by Mei Wang, Weihong Deng | Beijing University of Posts and Telecommunications
 
 - [Vision meets Robotics: The KITTI Dataset](Paper_Reading-Vision_meets_Robotics-The_KITTI_Dataset.pdf)
   - by Andreas Geiger, Philip Lenz, Christoph Stiller and Raquel Urtasun
