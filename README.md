@@ -24,11 +24,11 @@ My Research study towards domain adaptation:
     - Kate Saenko | CS, Boston University
     - Alexei A. Efros, Trevor Darrell | BAIR, UC Berkeley
 
-[LiDAR Segmentatic Segmentation: A Review](paper_analysis/Paper_Reading-LiDAR_Semantic_Segmentation-A_Review.pdf)
+- [LiDAR Segmentatic Segmentation: A Review](paper_analysis/Paper_Reading-LiDAR_Semantic_Segmentation-A_Review.pdf)
   - Original Paper Not yet publically available
   - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
 
-[In Defense of Classical Image Processing: Fast Depth Completion on the CPU](paper_analysis/Paper_Reading-In_Defense_of_Classical_Image_Processing-Fast_Depth_Completion_on_the_CPU.pdf)
+- [In Defense of Classical Image Processing: Fast Depth Completion on the CPU](paper_analysis/Paper_Reading-In_Defense_of_Classical_Image_Processing-Fast_Depth_Completion_on_the_CPU.pdf)
   - Jason Ku, Ali Harakeh, and Steven L. Waslander | University of Waterloo
 
 [current]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
