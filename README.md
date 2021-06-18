@@ -28,10 +28,10 @@ My Research study towards domain adaptation:
   - Original Paper Not yet publically available
   - by Ehsan Taghavi, Ryan Razani, Sinclair Hudson | Huawei Canada
 
-[current]: [In Defense of Classical Image Processing: Fast Depth Completion on the CPU](https://arxiv.org/pdf/1802.00036.pdf)
+[In Defense of Classical Image Processing: Fast Depth Completion on the CPU](Paper_Reading-In_Defense_of_Classical_Image_Processing-Fast_Depth_Completion_on_the_CPU.pdf)
   - Jason Ku, Ali Harakeh, and Steven L. Waslander | University of Waterloo
 
-[TODO]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
+[current]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
   - Yan Xu, Xinge Zhu, Jianping Shi, Guofeng Zhang, Hujun Bao, Hongsheng Li 
     - | SenseTime Research
     - | The Chinese University of Hong Kong
