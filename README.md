@@ -2,7 +2,7 @@
 My Research study towards domain adaptation:
 
 ## Research Paper Analysis: ##
-[TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
+- [TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
   - NLDB 2021
   - Larissa T. Triess, Mariella Dreissig, Christoph B. Rist, J. Marius Zöllner
 
