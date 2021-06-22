@@ -35,34 +35,34 @@ My Research study towards domain adaptation:
 - [In Defense of Classical Image Processing: Fast Depth Completion on the CPU](paper_analysis/Paper_Reading-In_Defense_of_Classical_Image_Processing-Fast_Depth_Completion_on_the_CPU.pdf)
   - Jason Ku, Ali Harakeh, and Steven L. Waslander | University of Waterloo
 
-[current]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
+- [current]: [Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints](https://arxiv.org/abs/1910.06727)
   - ICCV 2019
   - Yan Xu, Xinge Zhu, Jianping Shi, Guofeng Zhang, Hujun Bao, Hongsheng Li 
     - | SenseTime Research
     - | The Chinese University of Hong Kong
     - | State Key Lab of CAD&CG at Zhejiang University
 
-[TODO]: - [Source-Free Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2103.16372)
+- [TODO]: - [Source-Free Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2103.16372)
   - CVPR 2021
   - by Yuang Liu, Wei Zhang, Jun Wang | East China Normal University, Shanghai, China
 
-[TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation](https://arxiv.org/abs/2010.12239)
+- [TODO]: - [Domain Adaptation in LiDAR Semantic Segmentation](https://arxiv.org/abs/2010.12239)
   - by Inigo Alonso, Luis Riazuelo, Luis Montesano, Ana C. Murillo
 
-[TODO]: - [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)
+- [TODO]: - [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)
   - CVPR 2021
   - by Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan
     - | SUNY Buffalo
     - | TJU
     - | Horizon Robotics
 
-[TODO]: - [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds](https://arxiv.org/abs/2007.08488)
+- [TODO]: - [Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds](https://arxiv.org/abs/2007.08488)
   - by Li Yi, Boqing Gong, Thomas Funkhouser | Google Research
 
-[TODO]: - [Cross-Sensor Deep Domain Adaptation for LiDAR Detection and Segmentation](https://ieeexplore.ieee.org/abstract/document/8814047)
+- [TODO]: - [Cross-Sensor Deep Domain Adaptation for LiDAR Detection and Segmentation](https://ieeexplore.ieee.org/abstract/document/8814047)
   - 2019 IEEE Intelligent Vehicles Symposium (IV)
   - by Christoph B. Rist, Markus Enzweiler, Dariu M. Gavrila
 
-[TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud](https://arxiv.org/abs/1809.08495)
+- [TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud](https://arxiv.org/abs/1809.08495)
   - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
 
