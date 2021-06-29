@@ -1,5 +1,5 @@
 # Research Fields # 
-- [Domain Adaptation & Semantic Segmentation](#domain-adaptation-&-semantic-segmentation:)
+- [Domain Adaptation & Semantic Segmentation](#domain-adaptation-&-semantic-segmentation)
 - [Robotics](#Robotics)
 
 ## Domain Adaptation & Semantic Segmentation:
