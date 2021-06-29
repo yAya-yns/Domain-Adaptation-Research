@@ -69,14 +69,15 @@
 
 ## Robotics: ##
 - [ICRA 2021 Paper Review](paper_analysis/Paper_Reading-ICRA_2021-Papers_Review.pdf)
-  - Papers Selected: 
-    1. Flapping Wing Robot: Design of the high-payload flapping wing robot E-Flap
-    2. Autonomous Vehicle: Ground-aware Monocular 3D Object Detection for Autonomous Driving
-    3. Unmanned Surface Vehicle: How To Train Your HERON
-    4. Underwater Robot: Robust Underwater Visual SLAM Fusing Acoustic Sensing
-    5. Tripedal Robot: Locomotion and Control of a Friction-Driven Tripedal Robot
-    6. Robotic Face: Smile Like You Mean It: Driving Animatronic Robotic Face with Learned Models
-    7. Legged Robot: State Estimation in Slippery Environments Using Invariant Extended Kalman Filter with Velocity Update
-    8. Physical Human-Robot skin: Human-Like Artificial Skin Sensor for Physical Human-Robot Interaction 
-    9. Robotic Wheelchairs: S2P2: Self-Supervised Goal-Directed Path Planning Using RGB-D Data for Robotic Wheelchairs
-    10. Ceiling Mobile Robot: HanGrawler: Large-Payload and High-Speed Ceiling Mobile Robot Using Crawler
+  - | # | Robot Type | Paper Title |
+    | ---| --- | --- |
+    |1.| Flapping Wing Robot | Design of the high-payload flapping wing robot E-Flap |
+    |2.| Autonomous Vehicle | Ground-aware Monocular 3D Object Detection for Autonomous Driving |
+    |3.| Unmanned Surface Vehicle | How To Train Your HERON |
+    |4.| Underwater Robot | Robust Underwater Visual SLAM Fusing Acoustic Sensing |
+    |5.| Tripedal Robot | Locomotion and Control of a Friction-Driven Tripedal Robot |
+    |6.| Robotic Face | Smile Like You Mean It: Driving Animatronic Robotic Face with Learned Models |
+    |7.| Legged Robot | State Estimation in Slippery Environments Using Invariant Extended Kalman Filter with Velocity Update |
+    |8.| Physical Human-Robot skin | Human-Like Artificial Skin Sensor for Physical Human-Robot Interaction |
+    |9.| Robotic Wheelchairs | S2P2: Self-Supervised Goal-Directed Path Planning Using RGB-D Data for Robotic Wheelchairs |
+    |10.| Ceiling Mobile Robot | HanGrawler: Large-Payload and High-Speed Ceiling Mobile Robot Using Crawler |
