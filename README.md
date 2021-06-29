@@ -1,7 +1,8 @@
-# Domain-Adaptation-Research
-My Research study towards domain adaptation:
+# Research Field # 
+- [Domain Adaptation & Semantic Segmentation](Domain Adaptation & Semantic Segmentation)
+- [Robotics](Robotics)
 
-## Research Paper Analysis: ##
+## Domain Adaptation & Semantic Segmentation: ##
 - [TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
   - NLDB 2021
   - Larissa T. Triess, Mariella Dreissig, Christoph B. Rist, J. Marius Zöllner
@@ -66,3 +67,4 @@ My Research study towards domain adaptation:
 - [TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud](https://arxiv.org/abs/1809.08495)
   - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
 
+## Robotics: ##
