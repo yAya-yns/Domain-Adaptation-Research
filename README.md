@@ -1,8 +1,8 @@
 # Research Fields # 
-- [Domain Adaptation & Semantic Segmentation](Domain Adaptation & Semantic Segmentation: )
-- [Robotics](Robotics)
+- [Domain Adaptation & Semantic Segmentation](#domain-adaptation-&-semantic-segmentation:)
+- [Robotics](#Robotics)
 
-## Domain Adaptation & Semantic Segmentation:##
+## Domain Adaptation & Semantic Segmentation:
 - [TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
   - NLDB 2021
   - Larissa T. Triess, Mariella Dreissig, Christoph B. Rist, J. Marius Zöllner
