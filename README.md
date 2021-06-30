@@ -68,7 +68,7 @@
   - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
 
 ## Robotics: ##
-- [ICRA 2021 Paper Review](paper_analysis/Paper_Reading-ICRA_2021-Papers_Review.pdf)
+- [ICRA 2021 Paper Review on Robotics](paper_analysis/Paper_Reading-ICRA_2021-Papers_Review_on_Robotics.pdf)
   - | # | Robot Type | Paper Title |
     | ---| --- | --- |
     |1.| Flapping Wing Robot | Design of the high-payload flapping wing robot E-Flap |
