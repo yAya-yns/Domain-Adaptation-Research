@@ -1,6 +1,7 @@
 # Research Fields # 
 - [Domain Adaptation & Semantic Segmentation](#domain-adaptation--semantic-segmentation)
-- [Robotics](#Robotics)
+- [Computer Vision](#computer-vision)
+- [Robotics](#robotics)
 
 ## Domain Adaptation & Semantic Segmentation:
 - [TODO]: [A Survey on Deep Domain Adaptation for LiDAR Perception](https://arxiv.org/abs/2106.02377)
@@ -17,10 +18,6 @@
 - [nuScenes: A multimodal dataset for autonomous driving](paper_analysis/Paper_Reading-nuScenes-A_multimodal_dataset_for_autonomous_driving.pdf)
   - CVPR 2020
   - by Holger Caesar, Varun Bankiti, Alex H. Lang, Sourabh Vora, Venice Erin Liong, Qiang Xu, Anush Krishnan, Yu Pan, Giancarlo Baldan, Oscar Beijbom | nuTonomy
-
-- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](paper_analysis/Paper_Reading-Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.pdf)
-  - ICCV 2017
-  - by Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros | Berkeley AI Research (BAIR) laboratory, UC Berkeley
 
 - [CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION](paper_analysis/Paper_Reading-CYCADA-CYCLE-CONSISTENT_ADVERSARIAL_DOMAIN_ADAPTATION.pdf)
   - by 
@@ -67,7 +64,19 @@
 - [TODO]: - [SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud](https://arxiv.org/abs/1809.08495)
   - by Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, Kurt Keutzer | UC Berkeley
 
-## Robotics: ##
+## Computer Vision: ##
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](paper_analysis/Paper_Reading-Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.pdf)
+  - ICCV 2017
+  - by Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros | Berkeley AI Research (BAIR) laboratory, UC Berkeley
+
+- [Current] [TSIT: A Simple and Versatile Framework for Image-to-Image Translation](https://arxiv.org/abs/2007.12072)
+  - ECCV 2020
+  - by Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy
+    - | Nanyang Technological University
+    - | University of California, Berkeley
+    - | SenseTime Research
+
+## Robotics:
 - [ICRA 2021 Paper Review on Robotics](paper_analysis/Paper_Reading-ICRA_2021-Papers_Review_on_Robotics.pdf)
   - | # | Robot Type | Paper Title |
     | ---| --- | --- |
