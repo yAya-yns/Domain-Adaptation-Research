@@ -69,7 +69,7 @@
   - ICCV 2017
   - by Jun-Yan Zhu, Taesung Park, Phillip Isola Alexei A. Efros | Berkeley AI Research (BAIR) laboratory, UC Berkeley
 
-- [Current] [TSIT: A Simple and Versatile Framework for Image-to-Image Translation](https://arxiv.org/abs/2007.12072)
+- [Current] [TSIT: A Simple and Versatile Framework for Image-to-Image Translation](paper_analysis/Paper_Reading-TSIT-A_Simple_and_Versatile_Framework_for_Image-to-Image_Translation.pdf)
   - ECCV 2020
   - by Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy
     - | Nanyang Technological University
