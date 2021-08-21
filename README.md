@@ -75,6 +75,14 @@
     - | Nanyang Technological University
     - | University of California, Berkeley
     - | SenseTime Research
+  
+- [RPVNet: A Deep and Efficient Range-Point-Voxel Fusion Network for LiDAR Point Cloud Segmentation](paper_analysis/Paper_Reading-RPVNet-A_Deep_and_Efficient_Range-Point-Voxel_Fusion_Network_for_LiDAR_Point_Cloud_Segmentation.pdf)
+  - Current 1st rank on Semantic Segmentation for Semantic KITTI Challenge (2021/08/21)
+  - Jianyun Xu, Ruixiang Zhang, Jian Dou, Yushi Zhu, Jie Sun, Shiliang Pu 
+    - | Hikvision Research Institute
+    - | Zhejiang University
+
+
 
 ## Robotics:
 - [ICRA 2021 Paper Review on Robotics](paper_analysis/Paper_Reading-ICRA_2021-Papers_Review_on_Robotics.pdf)
