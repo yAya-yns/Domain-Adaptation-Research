@@ -40,6 +40,12 @@
     - | The Chinese University of Hong Kong
     - | State Key Lab of CAD&CG at Zhejiang University
 
+- [RPVNet: A Deep and Efficient Range-Point-Voxel Fusion Network for LiDAR Point Cloud Segmentation](paper_analysis/Paper_Reading-RPVNet-A_Deep_and_Efficient_Range-Point-Voxel_Fusion_Network_for_LiDAR_Point_Cloud_Segmentation.pdf)
+  - Current 1st rank on Semantic Segmentation for Semantic KITTI Challenge (2021/08/21)
+  - Jianyun Xu, Ruixiang Zhang, Jian Dou, Yushi Zhu, Jie Sun, Shiliang Pu 
+    - | Hikvision Research Institute
+    - | Zhejiang University
+
 - [TODO]: - [Source-Free Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2103.16372)
   - CVPR 2021
   - by Yuang Liu, Wei Zhang, Jun Wang | East China Normal University, Shanghai, China
@@ -75,13 +81,6 @@
     - | Nanyang Technological University
     - | University of California, Berkeley
     - | SenseTime Research
-  
-- [RPVNet: A Deep and Efficient Range-Point-Voxel Fusion Network for LiDAR Point Cloud Segmentation](paper_analysis/Paper_Reading-RPVNet-A_Deep_and_Efficient_Range-Point-Voxel_Fusion_Network_for_LiDAR_Point_Cloud_Segmentation.pdf)
-  - Current 1st rank on Semantic Segmentation for Semantic KITTI Challenge (2021/08/21)
-  - Jianyun Xu, Ruixiang Zhang, Jian Dou, Yushi Zhu, Jie Sun, Shiliang Pu 
-    - | Hikvision Research Institute
-    - | Zhejiang University
-
 
 
 ## Robotics:
