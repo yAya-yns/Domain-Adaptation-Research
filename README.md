@@ -46,6 +46,32 @@
     - | Hikvision Research Institute
     - | Zhejiang University
 
+- [Current] [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
+  - Yin Zhou, Oncel Tuzel | Apple.Inc
+
+- [TODO] [SECOND: Sparsely Embedded Convolutional Detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
+  - Yan Yan, Yuxing Mao, Bo Li | MDPI
+    - | Sate Key Laboratory, Chongqing University
+    - | TrunkTech Co., Ltd.
+
+- [TODO] [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784)
+  - CVPR 2019
+  - Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang, Oscar Beijbom | nuTonomy
+
+- [TODO] [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)
+  - CVPR 2020
+  - Shaoshuai Shi, Chaoxu Guo, Li Jiang, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li
+    - | Multimedia Laboratory, The Chinese University of Hong Kong
+    - | SenseTime Research
+    - | NLPR, CASIA
+    - | CSE, CUHK
+
+- [TODO] [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)
+  - Shaoshuai Shi, Li Jiang, Jiajun Deng, Zhe Wang, Chaoxu Guo, Jianping Shi, Xiaogang Wang, Hongsheng Li
+    - | The Chinese University of Hong Kong
+    - | University of Science and Technology of China
+    - | SenseTime Research
+
 - [TODO]: - [Source-Free Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2103.16372)
   - CVPR 2021
   - by Yuang Liu, Wei Zhang, Jun Wang | East China Normal University, Shanghai, China
