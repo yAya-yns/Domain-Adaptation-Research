@@ -50,7 +50,7 @@
   - Publication Date: 17th Nov, 2017
   - Yin Zhou, Oncel Tuzel | Apple.Inc
 
-- [current] [Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275)
+- [current] [Center-based 3D Object Detection and Tracking (aka. CenterPoint)](https://arxiv.org/abs/2006.11275)
   - Publication Date: 6th Jan, 2021
   - Tianwei Yin, Xingyi Zhou, Philipp Krähenbühl | University of Texas at Austin
 
