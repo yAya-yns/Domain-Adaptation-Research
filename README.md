@@ -46,8 +46,13 @@
     - | Hikvision Research Institute
     - | Zhejiang University
 
-- [Current] [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](paper_analysis/Paper_Reading-VoxelNet-End-to-End_Learning_for_Point_Cloud_Based_3D_Object_Detection.pdf)
+- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](paper_analysis/Paper_Reading-VoxelNet-End-to-End_Learning_for_Point_Cloud_Based_3D_Object_Detection.pdf)
+  - Published date: 17th Nov, 2017
   - Yin Zhou, Oncel Tuzel | Apple.Inc
+
+- [current] [Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275)
+  - Published date: 6th Jan, 2021
+  - Tianwei Yin, Xingyi Zhou, Philipp Krähenbühl | University of Texas at Austin
 
 - [TODO] [SECOND: Sparsely Embedded Convolutional Detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
   - Yan Yan, Yuxing Mao, Bo Li | MDPI
