@@ -46,7 +46,7 @@
     - | Hikvision Research Institute
     - | Zhejiang University
 
-- [Current] [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
+- [Current] [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](paper_analysis/Paper_Reading-VoxelNet-End-to-End_Learning_for_Point_Cloud_Based_3D_Object_Detection.pdf)
   - Yin Zhou, Oncel Tuzel | Apple.Inc
 
 - [TODO] [SECOND: Sparsely Embedded Convolutional Detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
