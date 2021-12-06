@@ -55,8 +55,23 @@
   - Publication Date: 6th Jan, 2021
   - Tianwei Yin, Xingyi Zhou, Philipp Krähenbühl | University of Texas at Austin
 
+- [Unsupervised Domain Adaptation in Semantic Segmentation via Orthogonal and Clustered Embeddings](paper_analysis/Paper_Reading-Unsupervised_Domain_Adaptation_in_Semantic_Segmentation_via_Orthogonal_and_Clustered_Embeddings.pdf)
+  - WACV 2021
+  - Publication Date: 25th Nov, 2020
+  - Marco Toldo, Umberto Michieli, Pietro Zanuttigh | Department of Information Engineering, University of Padova
+
+- [Target-targeted Domain Adaptation for Unsupervised Semantic Segmentation](paper_analysis/Paper_Reading-Target-targeted_Domain_Adaptation_for_Unsupervised_Semantic_Segmentation.pdf)
+  - ICRA 2021
+  - Publication Date: 18th Oct, 2021
+  - Xiaohong Zhang, Haofeng Zhang, Jianfeng Lu, Ling Shao, and Jingyu Yang
+    - | National Natural Science Foundation of China
+    - | Nanjing University of Science and Technology
+    - | Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi
+
+
 - [TODO] [SECOND: Sparsely Embedded Convolutional Detection](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
-  - Yan Yan, Yuxing Mao, Bo Li | MDPI
+  - Yan Yan, Yuxing Mao, Bo Li 
+    - | MDPI
     - | Sate Key Laboratory, Chongqing University
     - | TrunkTech Co., Ltd.
 
